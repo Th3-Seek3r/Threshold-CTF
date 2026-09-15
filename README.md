@@ -459,3 +459,5 @@ CTFd is an open-source project maintained by the CTFd community. Refer to the CT
 ## 🏴 Threshold CTF
 
 **Capture. Learn. Cross the Threshold.**
+
+[Full Documentation, Source code, and Configuration] (https://docs.google.com/document/d/1t2JaeOTWuZvAb6jZKslrXjGHlJ4ygoZmz9B9RC5RfkE/edit?usp=sharing)
